@@ -15,6 +15,12 @@ Some notes of Python for Data Science, including:
 # 运行环境
 Python运行环境：[ANACONDA](https://www.continuum.io/downloads/)
 
+**ANACONDA**主要包含以下几部分：
+1. **jupyter notebook**：网页版交互计算环境（无需联网）
+2. **spyder**：专门的Python开发环境
+3. **IPython**：可理解为升级版Python
+etc.
+
 # 学习资料
 1. Python学习网站：[DataCamp](https://www.datacamp.com/home) and [DataQuest](https://www.dataquest.io/)
 2. [Pandas简易入门](http://www.cnblogs.com/kylinlin/p/5226790.html)
